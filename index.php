@@ -50,11 +50,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 logo"><img src="img/logo.png"></img></div>
+                    <div class="col-md-6 col-md-offset-3"><img src="img/img-slogan.png"></img></div>
                     <form class="form-inline">
-                        <div class="search-conteiner">
+                        <div class="search-conteiner col-md-5 col-md-offset-4">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="search" placeholder="¿Qué quieres aprender?">
-                                <button type="button" class="btn btn-default" id="btnFind">buscar</button>
+                                <input type="text" class="form-control input-search" id="search" placeholder="¿Qué quieres aprender?">
+                                <button type="button" class="btn btn-search" id="btnFind">S</button>
                             </div>
 
                         </div>
