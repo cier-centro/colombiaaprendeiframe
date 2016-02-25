@@ -42,15 +42,20 @@
       </div>
     </nav>
 
-    <div class="container">
-	    <div class="row">
-	    	<div class="col-md-12">.col-md-4</div>
-	    	<form class="form-inline">
-			  <div class="form-group">
-			    <input type="text" class="form-control" id="search" placeholder="ingrese la palabra">
-			  </div>
-			  <button type="submit" class="btn btn-default">buscar</button>
-			</form>
+    <div class="bs-docs-header">
+    	<div class="container">
+		    <div class="row">
+		    	<div class="col-md-12 logo"><img src="img/logo.png"></img></div>
+		    	<form class="form-inline">
+		    		<div class="search-conteiner">
+						<div class="form-group">
+							<input type="text" class="form-control" id="search" placeholder="¿Qué quieres aprender?">
+							<button type="submit" class="btn btn-default">buscar</button>
+						</div>
+						
+					</div>
+				</form>
+			</div>  
 		</div>  	
     </div><!-- /.container -->
 </body>

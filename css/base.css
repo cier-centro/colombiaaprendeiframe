@@ -4,6 +4,7 @@ h1{margin:0px;}
 h2{margin:0px;}
 h3{margin:0px;}
 .icon, .icon:hover{color:rgba(255,255,255,0.0); display:inline-block;}
+.navbar{margin-bottom: 0px;}
 .navbar-nav > li > a{ width: 40px;height: 40px;}
 .social > li > a{background:url("../img/social-icons.png") no-repeat;}
 .navbar-nav .fa-facebook{background-position: 0px 0px;}
@@ -21,5 +22,9 @@ h3{margin:0px;}
 .fa-instagram:hover{background-position: -200px -40px;}
 .ico-register{background:url("../img/ico-register.png") no-repeat;width: 25px;height: 25px;}
 .navbar-collapse >.btn,.btn-register{color: #fff;background-color: #de5a49;border-color: #de5a49; text-align: right;padding: 0px 12px;}
-.navbar-collapse >.btn{margin-top:5px;-webkit-border-radius: 17px;-moz-border-radius: 17px;border-radius: 17px; float: right;}
+.navbar-collapse >.btn{margin-top:5px;-webkit-border-radius: 17px;-moz-border-radius: 17px;border-radius: 17px; float: right;line-height: 25px;}
 .navbar{border-bottom:5px solid; color:#de5a49;}
+.logo{margin: 20px 0 50px 0;}
+.bs-docs-header{background:url("../img/img-header.png") no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.search-conteiner{width:100%;}
+.search-conteiner>.form-group{margin:auto;}
