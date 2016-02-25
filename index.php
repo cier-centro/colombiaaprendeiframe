@@ -9,7 +9,9 @@
 	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	<!--<link href="css/bootstrap.css" rel="stylesheet" type="text/css">-->
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-	
+    <!--<link href="css/font-awesome.css" rel="stylesheet">-->
+    <!--<link href="css/docs.css" rel="stylesheet" >-->
+    <!--<link href="css/bootstrap-social.css" rel="stylesheet" >-->
 	<link href="css/base.css" rel="stylesheet" type="text/css">
 
 	<!--[if lt IE 9]>
@@ -21,35 +23,35 @@
 	<!--<script src="js/bootstrap.js"></script>-->
 	<script src="js/bootstrap.js"></script>
 
-	<script type="text/javascript">
-	</script>
 	<title>Aprendo con Colombia aprende</title>
 </head>
 <body>
 	<nav class="navbar">
       <div class="container">
         <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="#">F</a></li>
-            <li><a href="#about">T</a></li>
-            <li><a href="#contact">Y</a></li>
-            <li><a href="#contact">R</a></li>
-            <li><a href="#contact">Fl</a></li>
-            <li><a href="#contact">P</a></li>
+          <ul class="nav navbar-nav social">
+            <li><a class="icon fa-facebook" target="_blank" href="#"><span>A</span></a></li>
+            <li><a class="icon fa-twitter" target="_blank" href="#"><span>T</span></a></li>
+            <li><a class="icon fa-youtube" target="_blank" href="#"><span>Y</span></a></li>
+            <li><a class="icon fa-rss" target="_blank" href="#"><span>R</span></a></li>
+            <li><a class="icon fa-flicker" target="_blank" href="#"><span>F</span></a></li>
+            <li><a class="icon fa-instagram" target="_blank" href="#"><span>I</span></a></li>
           </ul>
+          <button type="submit" class="btn btn-danger"><span class="icon ico-register">a</span>Regístrate aquí</button>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
 
     <div class="container">
-    <div class="jumbotron">
-    	<form class="form-inline">
-		  <div class="form-group">
-		    <input type="text" class="form-control" id="search" placeholder="ingrese la palabra">
-		  </div>
-		  <button type="submit" class="btn btn-default">buscar</button>
-		</form>
-	</div>  	
+	    <div class="row">
+	    	<div class="col-md-12">.col-md-4</div>
+	    	<form class="form-inline">
+			  <div class="form-group">
+			    <input type="text" class="form-control" id="search" placeholder="ingrese la palabra">
+			  </div>
+			  <button type="submit" class="btn btn-default">buscar</button>
+			</form>
+		</div>  	
     </div><!-- /.container -->
 </body>
 </html>

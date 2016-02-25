@@ -3,3 +3,23 @@ body {margin: 0px; padding: 0px; font-family: 'Lato','Merriweather', serif; /*fo
 h1{margin:0px;}
 h2{margin:0px;}
 h3{margin:0px;}
+.icon, .icon:hover{color:rgba(255,255,255,0.0); display:inline-block;}
+.navbar-nav > li > a{ width: 40px;height: 40px;}
+.social > li > a{background:url("../img/social-icons.png") no-repeat;}
+.navbar-nav .fa-facebook{background-position: 0px 0px;}
+.navbar-nav .fa-twitter{background-position: -40px 0px;}
+.navbar-nav .fa-youtube{background-position: -80px 0px;}
+.navbar-nav .fa-rss{background-position: -120px 0px;}
+.navbar-nav .fa-flicker{background-position: -160px 0px;}
+.navbar-nav .fa-instagram{background-position: -200px 0px;}
+.navbar-nav, .social > li > a{overflow:hidden;-webkit-transition:all 200ms ease-in;-o-transition:all 200ms ease;transition:all 200ms ease; /* Establecemos una transición a todas las propiedades */}
+.fa-facebook:hover{ background-position: 0px -40px;}
+.fa-twitter:hover{background-position: -40px -40px;}
+.fa-youtube:hover{background-position: -80px -40px;}
+.fa-rss:hover{background-position: -120px -40px;}
+.fa-flicker:hover{background-position: -160px -40px;}
+.fa-instagram:hover{background-position: -200px -40px;}
+.ico-register{background:url("../img/ico-register.png") no-repeat;width: 25px;height: 25px;}
+.navbar-collapse >.btn,.btn-register{color: #fff;background-color: #de5a49;border-color: #de5a49; text-align: right;padding: 0px 12px;}
+.navbar-collapse >.btn{margin-top:5px;-webkit-border-radius: 17px;-moz-border-radius: 17px;border-radius: 17px; float: right;}
+.navbar{border-bottom:5px solid; color:#de5a49;}
