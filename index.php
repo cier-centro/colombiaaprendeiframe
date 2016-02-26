@@ -117,22 +117,24 @@
         </div><!-- /. fin del menu-->
 
         <div class="container "><!-- /. slide -->
+
+
             <div class="row">
                 <div class="col-md-9 slide">
                     <h4><span>icon</span>Contenidos destacados</h4>
                     <div class="owl-carousel">
-                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld5.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld6.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld7.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld8.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld9.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
+                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -140,6 +142,42 @@
                 </div>
             </div>
         </div><!-- /. slide -->
+
+
+        <div class="bs-docs-header menu-edusitios"><!-- /. menu-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 link-menu"><a class="estudiantes-b" target="_blank" href="#">Estudiantes_primaria</a></div>
+                    <div class="col-md-2 link-menu"><a class="estudiantes-s" target="_blank" href="#">Estudiantes_secundaria</a></div>
+                    <div class="col-md-2 link-menu"><a class="docentes-b" target="_blank" href="#">Docentes_primaria</a></div>
+                    <div class="col-md-2 link-menu"><a class="docentes-s" target="_blank" href="#">Docentes_secundaria</a></div>
+                    <div class="col-md-2 link-menu"><a class="investigadores" target="_blank" href="#">Investigadores</a></div>
+                    <div class="col-md-2 link-menu"><a class="familia" target="_blank" href="#">Familia_Y_comunidades</a></div>
+                </div>
+            </div>
+
+        </div>
+        <div class="bs-docs-header caruosel-edusitios">
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-12 slide-l">
+                        <h4><span>icon</span>Edusitios destacados</h4>
+                        <div class="owl-carousel">
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e5.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
+                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e5.png"></img></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- search -->
         <div id="popup" style="display: none;">
