@@ -81,7 +81,7 @@
                         <li><a class="icon fa-flicker" target="_blank" href="#"><span>F</span></a></li>
                         <li><a class="icon fa-instagram" target="_blank" href="#"><span>I</span></a></li>
                     </ul>
-                    <button type="submit" class="btn btn-danger"><span class="icon ico-register">a</span>Regístrate aquí</button>
+                    <a target="_blank" href="https://cas.colombiaaprende.edu.co/cas/login?service=http%3A%2F%2Faprende.colombiaaprende.edu.co%2Fen%2Fcas%3Fdestination%3Dnode%2F2970" class="btn btn-danger"><span class="icon ico-register">a</span>Regístrate aquí</a>
                 </div><!--/.nav-collapse -->
             </div>
         </nav>
@@ -123,22 +123,18 @@
                 <div class="col-md-9 slide">
                     <h4><span>icon</span>Contenidos destacados</h4>
                     <div class="owl-carousel">
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld5.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld6.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld7.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld8.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld9.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
-                        <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld10.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuPrimaria/index.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuSecundaria/index.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://ciersur.univalle.edu.co/index.php/media-main/results-content"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/88205"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://superate.edu.co/gimnasio-del-saber-2/"><img class="img-responsive" alt="Responsive image" src="img/img-sld5.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-344590.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld6.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/aulassinfronteras"><img class="img-responsive" alt="Responsive image" src="img/img-sld7.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/math"><img class="img-responsive" alt="Responsive image" src="img/img-sld9.png"></img></a></div>
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-banco-tareas.png"></img></a>
+                    <a target="_blank" href="http://aprende.colombiaaprende.edu.co/en/students/bankofhomestudentwork"><img class="img-responsive" alt="Responsive image" src="img/img-banco-tareas.png"></img></a>
                 </div>
             </div>
         </div><!-- /. slide -->
@@ -163,16 +159,10 @@
                     <div class="col-md-12 slide-l">
                         <h4><span>icon</span>Edusitios destacados</h4>
                         <div class="owl-carousel">
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e5.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
-                            <div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e5.png"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-351072.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-349446.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/86638"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
                         </div>
                     </div>
                 </div>
@@ -183,9 +173,9 @@
                 <div class="row">
                     <div class="col-md-12 slide-tabs">
                         <h4><span>icon</span>Agenda</h4>
-                         <div class="row">
+                        <div class="row">
                             <div class="col-md-12 tabs-container clearfix">
-                                 <!-- Nav tabs -->
+                                <!-- Nav tabs -->
                                 <ul class="nav nav-tabs" role="tablist">
                                     <li role="presentation" class="active"><a href="#Agenda" aria-controls="Agenda" role="tab" data-toggle="tab">Agenda</a></li>
                                     <li role="presentation"><a href="#Eventos" aria-controls="Eventos" role="tab" data-toggle="tab">Eventos</a></li>
@@ -205,7 +195,7 @@
                                     <div role="tabpanel" class="tab-pane" id="Efemerides"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
                                 </div> 
                             </div>
-                         </div>
+                        </div>
                     </div>
 
                 </div>
@@ -218,7 +208,7 @@
                         <h4><span>icon</span>Actividades para la comunidad</h4>
                         <div class="row">
                             <div class="col-md-12 tabs-container clearfix">
-                                 <!-- Nav tabs -->
+                                <!-- Nav tabs -->
                                 <ul class="nav nav-tabs" role="tablist">
                                     <li role="presentation" class="active"><a href="#Recientes" aria-controls="Recientes" role="tab" data-toggle="tab">Recientes</a></li>
                                     <li role="presentation"><a href="#Populares" aria-controls="Populares" role="tab" data-toggle="tab">Populares</a></li>
@@ -232,7 +222,7 @@
                                     <div role="tabpanel" class="tab-pane" id="Destacados"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
                                 </div> 
                             </div>
-                         </div>
+                        </div>
                     </div>
                     <div class="col-md-3 slide-twiter">
                         <h4><span>icon</span>twitter</h4>
