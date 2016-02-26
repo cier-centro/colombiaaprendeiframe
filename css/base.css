@@ -54,3 +54,23 @@ h3{margin:0px;}
 
 .slide > h4{ color:#808080; line-height: 25px;}
 .slide > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-cont-dest.png") no-repeat; padding: 8px;}
+
+/*menu edusitios*/
+.menu-edusitios{background-color:rgba(28,61,78,1.0);}
+.estudiantes-b{background:url("../img/btn-estudiantes-b.png") no-repeat;}
+.estudiantes-s{background:url("../img/btn-estudiantes-s.png") no-repeat;}
+.docentes-b{background:url("../img/btn-docencia-b.png") no-repeat;}
+.docentes-s{background:url("../img/btn-docencia-s.png") no-repeat;}
+.investigadores{background:url("../img/btn-investigadores.png") no-repeat;}
+.familia{background:url("../img/btn-familia.png") no-repeat;}
+
+.estudiantes-b:hover{background:url("../img/btn-estudiantes-b-h.png") no-repeat;}
+.estudiantes-s:hover{background:url("../img/btn-estudiantes-s-h.png") no-repeat;}
+.docentes-b:hover{background:url("../img/btn-docencia-b-h.png") no-repeat;}
+.docentes-s:hover{background:url("../img/btn-docencia-s-h.png") no-repeat;}
+.investigadores:hover{background:url("../img/btn-investigadores-h.png") no-repeat;}
+.familia:hover{background:url("../img/btn-familia-h.png") no-repeat;}
+
+.caruosel-edusitios{background:url("../img/bg-menu.png") repeat rgba(0,37,48,1.0);}
+.slide-l> h4{ color:#ffffff; line-height: 25px;}
+.slide-l > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-edus-dest.png") no-repeat; padding: 8px;}
