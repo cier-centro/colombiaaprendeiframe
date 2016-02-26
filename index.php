@@ -14,11 +14,13 @@
         <link href="css/base.css" rel="stylesheet" type="text/css">
         <link href="css/table.css" rel="stylesheet" type="text/css">
         <link href="css/style-popup.css" rel="stylesheet" type="text/css">
+        <link href="css/owl.carousel.css" rel="stylesheet" type="text/css">
 
         <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <script src="js/jquery/jquery.min.js"></script>
+        <script src="js/owl.carousel.js"></script>
 
         <!--resise window-->
         <!--<script src="js/bootstrap.js"></script>-->
@@ -26,6 +28,44 @@
         <script src="js/search.js"></script>
 
         <script type="text/javascript">
+		$(document).ready(function() {
+			$('.owl-carousel').owlCarousel({
+			    loop:true,
+			    margin:10,
+			    nav:true,
+			    responsive:{
+			        0:{
+			            items:1
+			        },
+			        600:{
+			            items:3
+			        },
+			        1000:{
+			            items:5
+			        }
+			    }
+			});
+        	/*$('.owl-carousel').owlCarousel({
+				loop:true,
+				margin:10,
+				responsiveClass:true,
+				responsive:{
+					0:{
+						items:1,
+						nav:true
+					},
+					600:{
+						items:3,
+						nav:false
+					},
+					1000:{
+						items:5,
+						nav:true,
+						loop:false
+					}
+				}
+			});*/
+		});
         </script>
         <title>Aprendo con Colombia aprende</title>
     </head>
@@ -46,7 +86,7 @@
             </div>
         </nav>
         
-        <div class="bs-docs-header">
+        <div class="bs-docs-header menu-header">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 logo"><img src="img/logo.png"></img></div>
@@ -61,9 +101,46 @@
                         </div>
                     </form>
                 </div>  
-            </div>  	
-        </div><!-- /.container -->
-        
+            </div>  <!-- /.container -->	
+        </div>
+        <div class="bs-docs-header menu-important-cont"><!-- /. menu-->
+        	<div class="container">
+                <div class="row">
+					<div class="col-md-2 link-menu"><a class="campus" target="_blank" href="#">Campus virtual</a></div>
+					<div class="col-md-2 link-menu"><a class="agenda" target="_blank" href="#">Agenda</a></div>
+					<div class="col-md-2 link-menu"><a class="comunidades" target="_blank" href="#">Comunidades_de_Pránctica</a></div>
+					<div class="col-md-2 link-menu"><a class="edusitios" target="_blank" href="#">Edusitios</a></div>
+					<div class="col-md-2 link-menu"><a class="catalogo" target="_blank" href="#">Catalogo_de_Contenidos</a></div>
+					<div class="col-md-2 link-menu"><a class="experiencias" target="_blank" href="#">Experiencias_TIC</a></div>
+				</div>
+            </div>
+        </div><!-- /. fin del menu-->
+
+        <div class="container "><!-- /. slide -->
+			<div class="row">
+				<div class="col-md-9 slide">
+					<h4><span>icon</span>Contenidos destacados</h4>
+					<div class="owl-carousel">
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-banco-tareas.png"></img></a>
+				</div>
+			</div>
+		</div><!-- /. slide -->
+
         <!-- search -->
         <div id="popup" style="display: none;">
             <div class="content-popup datagrid">

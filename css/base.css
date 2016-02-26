@@ -27,9 +27,30 @@ h3{margin:0px;}
 .logo{margin: 20px 0 50px 0;}
 .btn-search{line-height: 22px;padding: 5px 15px;color:rgba(255,255,255,0.0);background:url("../img/ico-search.png") no-repeat  #de5a49;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;}
 .btn-search:hover{color:rgba(255,255,255,0.0); background-color: #cc463b}
-.bs-docs-header{background:url("../img/img-header.png") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.menu-header{background:url("../img/img-header.png") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
 .search-conteiner{ padding: 15px; margin-bottom: 100px;}
 .search-conteiner>.form-group{margin:auto;min-width:450px;}
 .search-conteiner>input{}
 .search-conteiner>.button{float: right;}
 .input-search{min-width:400px;margin-right: -4px;}
+/*inicio estilos menus*/
+.menu-important-cont{background-color:#ededed;}
+/*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
+.link-menu{ height: 80px;padding:0px;}
+.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 30px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
+.campus{background:url("../img/btn-campus-virtual.png") no-repeat;}
+.agenda{background:url("../img/btn-agenda.png") no-repeat;}
+.comunidades{background:url("../img/btn-comunidades.png") no-repeat;}
+.edusitios{background:url("../img/btn-edusitios.png") no-repeat;}
+.catalogo{background:url("../img/btn-catalogo.png") no-repeat;}
+.experiencias{background:url("../img/btn-experiencias.png") no-repeat;}
+
+.campus:hover{background:url("../img/btn-campus-virtual-h.png") no-repeat;background-color:#ea564b;}
+.agenda:hover{background:url("../img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
+.comunidades:hover{background:url("../img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
+.edusitios:hover{background:url("../img/btn-edusitios-h.png") no-repeat;background-color:#ea564b;}
+.catalogo:hover{background:url("../img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
+.experiencias:hover{background:url("../img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
+
+.slide > h4{ color:#808080; line-height: 25px;}
+.slide > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-cont-dest.png") no-repeat; padding: 8px;}
