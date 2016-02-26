@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    
+
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8">
@@ -28,44 +28,44 @@
         <script src="js/search.js"></script>
 
         <script type="text/javascript">
-		$(document).ready(function() {
-			$('.owl-carousel').owlCarousel({
-			    loop:true,
-			    margin:10,
-			    nav:true,
-			    responsive:{
-			        0:{
-			            items:1
-			        },
-			        600:{
-			            items:3
-			        },
-			        1000:{
-			            items:5
-			        }
-			    }
-			});
-        	/*$('.owl-carousel').owlCarousel({
-				loop:true,
-				margin:10,
-				responsiveClass:true,
-				responsive:{
-					0:{
-						items:1,
-						nav:true
-					},
-					600:{
-						items:3,
-						nav:false
-					},
-					1000:{
-						items:5,
-						nav:true,
-						loop:false
-					}
-				}
-			});*/
-		});
+            $(document).ready(function() {
+                $('.owl-carousel').owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    nav: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        600: {
+                            items: 3
+                        },
+                        1000: {
+                            items: 5
+                        }
+                    }
+                });
+                /*$('.owl-carousel').owlCarousel({
+                 loop:true,
+                 margin:10,
+                 responsiveClass:true,
+                 responsive:{
+                 0:{
+                 items:1,
+                 nav:true
+                 },
+                 600:{
+                 items:3,
+                 nav:false
+                 },
+                 1000:{
+                 items:5,
+                 nav:true,
+                 loop:false
+                 }
+                 }
+                 });*/
+            });
         </script>
         <title>Aprendo con Colombia aprende</title>
     </head>
@@ -85,7 +85,7 @@
                 </div><!--/.nav-collapse -->
             </div>
         </nav>
-        
+
         <div class="bs-docs-header menu-header">
             <div class="container">
                 <div class="row">
@@ -104,42 +104,42 @@
             </div>  <!-- /.container -->	
         </div>
         <div class="bs-docs-header menu-important-cont"><!-- /. menu-->
-        	<div class="container">
+            <div class="container">
                 <div class="row">
-					<div class="col-md-2 link-menu"><a class="campus" target="_blank" href="#">Campus virtual</a></div>
-					<div class="col-md-2 link-menu"><a class="agenda" target="_blank" href="#">Agenda</a></div>
-					<div class="col-md-2 link-menu"><a class="comunidades" target="_blank" href="#">Comunidades_de_Pránctica</a></div>
-					<div class="col-md-2 link-menu"><a class="edusitios" target="_blank" href="#">Edusitios</a></div>
-					<div class="col-md-2 link-menu"><a class="catalogo" target="_blank" href="#">Catalogo_de_Contenidos</a></div>
-					<div class="col-md-2 link-menu"><a class="experiencias" target="_blank" href="#">Experiencias_TIC</a></div>
-				</div>
+                    <div class="col-md-2 link-menu"><a class="campus" target="_blank" href="#">Campus virtual</a></div>
+                    <div class="col-md-2 link-menu"><a class="agenda" target="_blank" href="#">Agenda</a></div>
+                    <div class="col-md-2 link-menu"><a class="comunidades" target="_blank" href="#">Comunidades_de_Pránctica</a></div>
+                    <div class="col-md-2 link-menu"><a class="edusitios" target="_blank" href="#">Edusitios</a></div>
+                    <div class="col-md-2 link-menu"><a class="catalogo" target="_blank" href="#">Catalogo_de_Contenidos</a></div>
+                    <div class="col-md-2 link-menu"><a class="experiencias" target="_blank" href="#">Experiencias_TIC</a></div>
+                </div>
             </div>
         </div><!-- /. fin del menu-->
 
         <div class="container "><!-- /. slide -->
-			<div class="row">
-				<div class="col-md-9 slide">
-					<h4><span>icon</span>Contenidos destacados</h4>
-					<div class="owl-carousel">
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-						<div class="item"><a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-banco-tareas.png"></img></a>
-				</div>
-			</div>
-		</div><!-- /. slide -->
+            <div class="row">
+                <div class="col-md-9 slide">
+                    <h4><span>icon</span>Contenidos destacados</h4>
+                    <div class="owl-carousel">
+                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aulasinfronteras.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-5.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.educ.ar/"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <a href="#"><img class="img-responsive" alt="Responsive image" src="img/img-banco-tareas.png"></img></a>
+                </div>
+            </div>
+        </div><!-- /. slide -->
 
         <!-- search -->
         <div id="popup" style="display: none;">
