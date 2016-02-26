@@ -178,6 +178,76 @@
                 </div>
             </div>
         </div>
+        <div class="bs-docs-header content-agenda">
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-12 slide-tabs">
+                        <h4><span>icon</span>Agenda</h4>
+                         <div class="row">
+                            <div class="col-md-12 tabs-container clearfix">
+                                 <!-- Nav tabs -->
+                                <ul class="nav nav-tabs" role="tablist">
+                                    <li role="presentation" class="active"><a href="#Agenda" aria-controls="Agenda" role="tab" data-toggle="tab">Agenda</a></li>
+                                    <li role="presentation"><a href="#Eventos" aria-controls="Eventos" role="tab" data-toggle="tab">Eventos</a></li>
+                                    <li role="presentation"><a href="#Becas" aria-controls="Becas" role="tab" data-toggle="tab">Becas</a></li>
+                                    <li role="presentation"><a href="#Concursos" aria-controls="Concursos" role="tab" data-toggle="tab">Concursos</a></li>
+                                    <li role="presentation"><a href="#Convocatorias" aria-controls="Convocatorias" role="tab" data-toggle="tab">Convocatorias</a></li>
+                                    <li role="presentation"><a href="#Efemerides" aria-controls="Convocatorias" role="tab" data-toggle="tab">Efemérides</a></li>
+                                </ul>
+
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <div role="tabpanel" class="tab-pane active" id="Agenda"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Eventos"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Becas"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Concursos"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Convocatorias"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Efemerides"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
+                                </div> 
+                            </div>
+                         </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="bs-docs-header content-actividades">
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-9 slide-actividades">
+                        <h4><span>icon</span>Actividades para la comunidad</h4>
+                        <div class="row">
+                            <div class="col-md-12 tabs-container clearfix">
+                                 <!-- Nav tabs -->
+                                <ul class="nav nav-tabs" role="tablist">
+                                    <li role="presentation" class="active"><a href="#Recientes" aria-controls="Recientes" role="tab" data-toggle="tab">Recientes</a></li>
+                                    <li role="presentation"><a href="#Populares" aria-controls="Populares" role="tab" data-toggle="tab">Populares</a></li>
+                                    <li role="presentation"><a href="#Destacados" aria-controls="Destacados" role="tab" data-toggle="tab">Destacados</a><li>
+                                </ul>
+
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <div role="tabpanel" class="tab-pane active" id="Recientes"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Populares"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
+                                    <div role="tabpanel" class="tab-pane" id="Destacados"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
+                                </div> 
+                            </div>
+                         </div>
+                    </div>
+                    <div class="col-md-3 slide-twiter">
+                        <h4><span>icon</span>twitter</h4>
+                        <a href="#"><img class="" alt="Responsive image" src="img/img-twitter.png"></img></a>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <footer class="blog-footer">
+            <div class="container ">
+                <img class="img-responsive" alt="Responsive image" src="img/img-footer.png"></img>
+            </div>
+        </footer>
 
         <!-- search -->
         <div id="popup" style="display: none;">

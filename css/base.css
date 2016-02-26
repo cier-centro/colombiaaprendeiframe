@@ -74,3 +74,17 @@ h3{margin:0px;}
 .caruosel-edusitios{background:url("../img/bg-menu.png") repeat rgba(0,37,48,1.0);}
 .slide-l> h4{ color:#ffffff; line-height: 25px;}
 .slide-l > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-edus-dest.png") no-repeat; padding: 8px;}
+
+.content-agenda{background:url("../img/bg-menu.png") repeat rgba(0,81,95,1.0);}
+.slide-tabs> h4{ color:#ffffff; line-height: 25px;}
+.slide-tabs> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-agenda.png") no-repeat; padding: 8px;}
+.tabs-container{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
+.nav-tabs > li > a {line-height: 5px; color: #ffffff;background-color: rgba(0,81,95,1.0);}
+.nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{color: rgba(0,81,95,1.0);}
+
+.content-actividades{background:url("../img/bg-final.png")rgba(34,163,183,1.0) no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; border-bottom: solid 5px #de5a49; }
+.slide-actividades> h4{ color:#ffffff; line-height: 25px;}
+.slide-actividades> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-actividades.png") no-repeat; padding: 8px;}
+
+.slide-twiter > h4{ color:#ffffff; line-height: 25px;}
+.slide-twiter > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-twitter.png") no-repeat; padding: 8px;}
