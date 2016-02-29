@@ -131,6 +131,7 @@
                         <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-344590.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld6.png"></img></a></div>
                         <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/aulassinfronteras"><img class="img-responsive" alt="Responsive image" src="img/img-sld7.png"></img></a></div>
                         <div class="item"><a target="_blank" href="https://es.khanacademy.org/math"><img class="img-responsive" alt="Responsive image" src="img/img-sld9.png"></img></a></div>
+						<div class="item"><a target="_blank" href="https://phet.colorado.edu/es/"><img class="img-responsive" alt="Responsive image" src="img/img-sld11.png"></img></a></div>
                     </div>
                 </div>
                 <div class="col-md-3">
