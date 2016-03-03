@@ -23,11 +23,12 @@ h3{margin:0px;}
 .ico-register{background:url("../img/ico-register.png") no-repeat;width: 25px;height: 25px;}
 .navbar-collapse >.btn,.btn-register{color: #fff;background-color: #de5a49;border-color: #de5a49; text-align: right;padding: 0px 12px;}
 .navbar-collapse >.btn{margin-top:5px;-webkit-border-radius: 17px;-moz-border-radius: 17px;border-radius: 17px; float: right;line-height: 25px;}
-.navbar{border-bottom:5px solid; color:#de5a49;}
-.logo{margin: 20px 0 50px 0;}
+.navbar{border:0px; min-height:40px;border-bottom:5px solid; color:#de5a49;}
+.navbar-icons{display: block;width: 100%;height: 100px;}
+.logo{margin: 5px 0 5px 0;}
 .btn-search{line-height: 22px;padding: 5px 15px;color:rgba(255,255,255,0.0);background:url("../img/ico-search.png") no-repeat  #de5a49;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;}
 .btn-search:hover{color:rgba(255,255,255,0.0); background-color: #cc463b}
-.menu-header{background:url("../img/img-header.png") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.menu-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
 .search-conteiner{ padding: 15px; margin-bottom: 100px;}
 .search-conteiner>.form-group{margin:auto;min-width:450px;}
 .search-conteiner>input{}
@@ -36,8 +37,8 @@ h3{margin:0px;}
 /*inicio estilos menus*/
 .menu-important-cont{background-color:#ededed;}
 /*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
-.link-menu{ height: 80px;padding:0px;}
-.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 30px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
+.link-menu{ height: 70px;padding:0px;}
+.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
 .campus{background:url("../img/btn-campus-virtual.png") no-repeat;}
 .agenda{background:url("../img/btn-agenda.png") no-repeat;}
 .comunidades{background:url("../img/btn-comunidades.png") no-repeat;}

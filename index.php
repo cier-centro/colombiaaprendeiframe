@@ -83,13 +83,18 @@
                     </ul>
                     <a target="_blank" href="https://cas.colombiaaprende.edu.co/cas/login?service=http%3A%2F%2Faprende.colombiaaprende.edu.co%2Fen%2Fcas%3Fdestination%3Dnode%2F2970" class="btn btn-danger"><span class="icon ico-register">a</span>Regístrate aquí</a>
                 </div><!--/.nav-collapse -->
+                <div class"navbar-icons">
+                    <div class="col-md-8 logo"><img class="img-responsive" alt="Responsive image" src="img/logo.png"></img></div>
+                    <div class="col-md-2 logo"><img class="img-responsive" alt="Responsive image" src="img/logo-minedu.png"></img></div>
+                    <div class="col-md-2 logo"><img class="img-responsive" alt="Responsive image" src="img/logo-todo-pais.png"></img></div>
+                </div>
             </div>
         </nav>
 
         <div class="bs-docs-header menu-header">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 logo"><img src="img/logo.png"></img></div>
+                    <!--<div class="col-md-12 logo"><img src="img/logo.png"></img></div>-->
                     <div class="col-md-6 col-md-offset-3"><img src="img/img-slogan.png"></img></div>
                     <form class="form-inline">
                         <div class="search-conteiner col-md-5 col-md-offset-4">
@@ -123,15 +128,15 @@
                 <div class="col-md-9 slide">
                     <h4><span>icon</span>Contenidos destacados</h4>
                     <div class="owl-carousel">
-                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuPrimaria/index.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld1.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuSecundaria/index.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld2.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://ciersur.univalle.edu.co/index.php/media-main/results-content"><img class="img-responsive" alt="Responsive image" src="img/img-sld3.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/88205"><img class="img-responsive" alt="Responsive image" src="img/img-sld4.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://superate.edu.co/gimnasio-del-saber-2/"><img class="img-responsive" alt="Responsive image" src="img/img-sld5.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-344590.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld6.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/aulassinfronteras"><img class="img-responsive" alt="Responsive image" src="img/img-sld7.png"></img></a></div>
-                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/math"><img class="img-responsive" alt="Responsive image" src="img/img-sld9.png"></img></a></div>
-						<div class="item"><a target="_blank" href="https://phet.colorado.edu/es/"><img class="img-responsive" alt="Responsive image" src="img/img-sld11.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuPrimaria/index.html"><img class="" alt="" src="img/img-sld1.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/MenuSecundaria/index.html"><img class="" alt="" src="img/img-sld2.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://ciersur.univalle.edu.co/index.php/media-main/results-content"><img class="" alt="" src="img/img-sld3.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/88205"><img class="" alt="" src="img/img-sld4.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://superate.edu.co/gimnasio-del-saber-2/"><img class="" alt="" src="img/img-sld5.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-344590.html"><img class="" alt="" src="img/img-sld6.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/aulassinfronteras"><img class="" alt="" src="img/img-sld7.png"></img></a></div>
+                        <div class="item"><a target="_blank" href="https://es.khanacademy.org/math"><img class="" alt="" src="img/img-sld9.png"></img></a></div>
+						<div class="item"><a target="_blank" href="https://phet.colorado.edu/es/"><img class="" alt="" src="img/img-sld11.png"></img></a></div>
                     </div>
                 </div>
                 <div class="col-md-3">
