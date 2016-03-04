@@ -102,7 +102,7 @@
                     <!--<div class="col-md-12 logo"><img src="img/logo.png"></img></div>-->
                     <div class="col-md-8 col-md-offset-2"><img src="img/img-slogan.png"></img></div>
                     <form class="form-inline">
-                        <div class="search-conteiner col-md-5 col-md-offset-4">
+                        <div class="search-conteiner  "><!--col-md-5 col-md-offset-3-->
                             <div class="form-group">
                                 <input type="text" class="form-control input-search" id="search" placeholder="¿Qué quieres aprender?">
                                 <button type="button" class="btn btn-search" id="btnFind">S</button>
@@ -110,6 +110,7 @@
 
                         </div>
                     </form>
+                    <div class="col-md-12 label-search"><label>Más  de 100.000 contenidos educativos virtuales para aprender y enseñar.</label> </div>  
                 </div>  
             </div>  <!-- /.container -->	
         </div>

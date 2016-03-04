@@ -29,11 +29,11 @@ h3{margin:0px;}
 .btn-search{line-height: 22px;padding: 5px 15px;color:rgba(255,255,255,0.0);background:url("../img/ico-search.png") no-repeat  #de5a49;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;}
 .btn-search:hover{color:rgba(255,255,255,0.0); background-color: #cc463b}
 .menu-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
-.search-conteiner{ padding: 15px;}
+.search-conteiner{ padding: 15px; margin: auto; width: 500px;}
 .search-conteiner>.form-group{margin:auto;min-width:450px;}
 .search-conteiner>input{}
 .search-conteiner>.button{float: right;}
-.input-search{min-width:400px;margin-right: -4px;}
+.input-search{min-width:80%;margin-right: -4px; margin-left: 7%;}
 /*inicio estilos menus*/
 .menu-important-cont{background-color:#ededed;}
 /*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
@@ -89,4 +89,4 @@ h3{margin:0px;}
 
 .slide-twiter > h4{ color:#ffffff; line-height: 25px;}
 .slide-twiter > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-twitter.png") no-repeat; padding: 8px;}
-.modal-body>button{margin: auto;}
+.label-search{text-align: center;color:#ffffff; margin-bottom: 50px;}
