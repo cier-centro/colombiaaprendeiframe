@@ -39,17 +39,17 @@ h3{margin:0px;}
 /*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
 .link-menu{ height: 70px;padding:0px;}
 .link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
-.campus{background:url("../img/btn-campus-virtual.png") no-repeat;}
+.campus{background:url("../img/btn-cursos-online-gratis.png") no-repeat;}
 .agenda{background:url("../img/btn-agenda.png") no-repeat;}
 .comunidades{background:url("../img/btn-comunidades.png") no-repeat;}
-.edusitios{background:url("../img/btn-edusitios.png") no-repeat;}
+.edusitios{background:url("../img/btn-programas-especiales.png") no-repeat;}
 .catalogo{background:url("../img/btn-catalogo.png") no-repeat;}
 .experiencias{background:url("../img/btn-experiencias.png") no-repeat;}
 
-.campus:hover{background:url("../img/btn-campus-virtual-h.png") no-repeat;background-color:#ea564b;}
+.campus:hover{background:url("../img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
 .agenda:hover{background:url("../img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
 .comunidades:hover{background:url("../img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
-.edusitios:hover{background:url("../img/btn-edusitios-h.png") no-repeat;background-color:#ea564b;}
+.edusitios:hover{background:url("../img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
 .catalogo:hover{background:url("../img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
 .experiencias:hover{background:url("../img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
 
