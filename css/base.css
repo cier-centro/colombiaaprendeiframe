@@ -78,7 +78,7 @@ h3{margin:0px;}
 
 .content-agenda{background:url("../img/bg-menu.png") repeat rgba(0,81,95,1.0);}
 .slide-tabs> h4{ color:#ffffff; line-height: 25px;}
-.slide-tabs> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-agenda.png") no-repeat; padding: 8px;}
+.slide-tabs> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-comunidades.png") no-repeat; padding: 8px;}
 .tabs-container{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
 .nav-tabs > li > a {line-height: 5px; color: #ffffff;background-color: rgba(0,81,95,1.0);}
 .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{color: rgba(0,81,95,1.0);}

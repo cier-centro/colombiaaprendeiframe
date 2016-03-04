@@ -171,10 +171,15 @@
                     <div class="col-md-12 slide-l">
                         <h4><span>icon</span>Edusitios destacados</h4>
                         <div class="owl-carousel">
+                            <div class="item"><a target="_blank" href="http://superate.edu.co/"><img class="img-responsive" alt="Responsive image" src="img/superateconsaber.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-propertyname-3203.html"><img class="img-responsive" alt="Responsive image" src="img/jornadaunica.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/pta"><img class="img-responsive" alt="Responsive image" src="img/todosaaprender_360.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-propertyname-3009.html"><img class="img-responsive" alt="Responsive image" src="img/colombiabilingue.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://maestros.colombiaaprende.edu.co/"><img class="img-responsive" alt="Responsive image" src="img/Red-Maestros.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/86638"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
                             <div class="item"><a target="_blank" href="http://contenidosparaaprender.mineducacion.gov.co/"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e1.png"></img></a></div>
                             <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-351072.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e2.png"></img></a></div>
                             <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-article-349446.html"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e3.png"></img></a></div>
-                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/node/86638"><img class="img-responsive" alt="Responsive image" src="img/img-sld-e4.png"></img></a></div>
                         </div>
                     </div>
                 </div>
@@ -184,29 +189,13 @@
             <div class="container ">
                 <div class="row">
                     <div class="col-md-12 slide-tabs">
-                        <h4><span>icon</span>Agenda</h4>
-                        <div class="row">
-                            <div class="col-md-12 tabs-container clearfix">
-                                <!-- Nav tabs -->
-                                <ul class="nav nav-tabs" role="tablist">
-                                    <li role="presentation" class="active"><a href="#Agenda" aria-controls="Agenda" role="tab" data-toggle="tab">Agenda</a></li>
-                                    <li role="presentation"><a href="#Eventos" aria-controls="Eventos" role="tab" data-toggle="tab">Eventos</a></li>
-                                    <li role="presentation"><a href="#Becas" aria-controls="Becas" role="tab" data-toggle="tab">Becas</a></li>
-                                    <li role="presentation"><a href="#Concursos" aria-controls="Concursos" role="tab" data-toggle="tab">Concursos</a></li>
-                                    <li role="presentation"><a href="#Convocatorias" aria-controls="Convocatorias" role="tab" data-toggle="tab">Convocatorias</a></li>
-                                    <li role="presentation"><a href="#Efemerides" aria-controls="Convocatorias" role="tab" data-toggle="tab">Efemérides</a></li>
-                                </ul>
-
-                                <!-- Tab panes -->
-                                <div class="tab-content">
-                                    <div role="tabpanel" class="tab-pane active" id="Agenda"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
-                                    <div role="tabpanel" class="tab-pane" id="Eventos"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
-                                    <div role="tabpanel" class="tab-pane" id="Becas"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
-                                    <div role="tabpanel" class="tab-pane" id="Concursos"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
-                                    <div role="tabpanel" class="tab-pane" id="Convocatorias"><img class="img-responsive" alt="Responsive image" src="img/img-tabs.png"></img></div>
-                                    <div role="tabpanel" class="tab-pane" id="Efemerides"><img class="img-responsive" alt="Responsive image" src="img/img-tabs2.png"></img></div>
-                                </div> 
-                            </div>
+                        <h4><span>icon</span>Comunidades de práctica</h4>
+                        <div class="owl-carousel">
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/red-voces-y-saberes-de-la-educaci%C3%B3n-inicial"><img class="img-responsive" alt="Responsive image" src="img/redvocessaberes.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/recreo-tic"><img class="img-responsive" alt="Responsive image" src="img/recreotic.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/vestigium"><img class="img-responsive" alt="Responsive image" src="img/vestigium.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/red-colombiana-de-formadores-de-profesores-de"><img class="img-responsive" alt="Responsive image" src="img/redforma.jpg"></img></a></div>
+                            <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/cerrando-brechas-en-la-atencion-educativa-estudiantes"><img class="img-responsive" alt="Responsive image" src="img/cerrandobrechas.jpg"></img></a></div>
                         </div>
                     </div>
 
