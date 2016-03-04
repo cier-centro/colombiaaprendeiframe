@@ -45,6 +45,11 @@
                         }
                     }
                 });
+                 $('#modalInicial').modal('show');
+                $("#btnTeacher").click(function() {
+                    window.location.href = "http://aprende.colombiaaprende.edu.co/es/docentes";
+                   // window.location = http://aprende.colombiaaprende.edu.co/es/docentes;
+                });
                 /*$('.owl-carousel').owlCarousel({
                  loop:true,
                  margin:10,
@@ -95,7 +100,7 @@
             <div class="container">
                 <div class="row">
                     <!--<div class="col-md-12 logo"><img src="img/logo.png"></img></div>-->
-                    <div class="col-md-6 col-md-offset-3"><img src="img/img-slogan.png"></img></div>
+                    <div class="col-md-8 col-md-offset-2"><img src="img/img-slogan.png"></img></div>
                     <form class="form-inline">
                         <div class="search-conteiner col-md-5 col-md-offset-4">
                             <div class="form-group">
@@ -244,7 +249,25 @@
                 <img class="img-responsive" alt="Responsive image" src="img/img-footer.png"></img>
             </div>
         </footer>
-
+        <!-- Small modal -->
+        <div id="modalInicial" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+          <div class="modal-dialog bs-example-modal-sm">
+            <div class="modal-content modal-dialog modal-sm">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="exampleModalLabel">Permitenos saber quien eres</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <button id="btnStudent" type="button" class="btn btn-primary btn-lg btn-block" data-toggle="alumno" data-target="#student" data-whatever="">Soy estudiante </button>
+                        <button id="btnTeacher" type="button" class="btn btn-primary btn-lg btn-block" data-toggle="profesor" data-target="#teacher" data-whatever="">Soy Docente  </button>
+                      </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
         <!-- search -->
         <div id="popup" style="display: none;">
             <div class="content-popup datagrid">
