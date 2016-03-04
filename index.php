@@ -50,6 +50,9 @@
                     window.location.href = "http://aprende.colombiaaprende.edu.co/es/docentes";
                    // window.location = http://aprende.colombiaaprende.edu.co/es/docentes;
                 });
+                $("#btnStudent").click(function() {
+                    $('#modalInicial').modal('hide')
+                });
                 /*$('.owl-carousel').owlCarousel({
                  loop:true,
                  margin:10,
@@ -188,9 +191,9 @@
         <div class="bs-docs-header content-agenda">
             <div class="container ">
                 <div class="row">
-                    <div class="col-md-12 slide-tabs">
+                    <div class="col-md-12 slide-tabs ">
                         <h4><span>icon</span>Comunidades de práctica</h4>
-                        <div class="owl-carousel">
+                        <div class="owl-carousel carousel-container">
                             <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/red-voces-y-saberes-de-la-educaci%C3%B3n-inicial"><img class="img-responsive" alt="Responsive image" src="img/redvocessaberes.jpg"></img></a></div>
                             <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/recreo-tic"><img class="img-responsive" alt="Responsive image" src="img/recreotic.jpg"></img></a></div>
                             <div class="item"><a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/comunidades-de-pr%C3%A1ctica/lista-de-comunidades/vestigium"><img class="img-responsive" alt="Responsive image" src="img/vestigium.jpg"></img></a></div>
@@ -245,7 +248,7 @@
             <div class="modal-content modal-dialog modal-sm">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="exampleModalLabel">Permitenos saber quien eres</h4>
+                    <h4 class="modal-title" id="exampleModalLabel">¿Qué rol desempeñas?</h4>
                 </div>
                 <div class="modal-body">
                     <div class="row">
