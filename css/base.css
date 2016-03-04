@@ -90,3 +90,4 @@ h3{margin:0px;}
 .slide-twiter > h4{ color:#ffffff; line-height: 25px;}
 .slide-twiter > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-twitter.png") no-repeat; padding: 8px;}
 .label-search{text-align: center;color:#ffffff; margin-bottom: 50px;}
+.modal-dialog {margin: 140px auto;}
