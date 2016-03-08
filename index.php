@@ -172,7 +172,7 @@
             <div class="container ">
                 <div class="row">
                     <div class="col-md-12 slide-l">
-                        <h4><span>icon</span>Edusitios destacados</h4>
+                        <h4><span>icon</span>Programas Especiales</h4>
                         <div class="owl-carousel">
                             <div class="item"><a target="_blank" href="http://superate.edu.co/"><img class="img-responsive" alt="Responsive image" src="img/superateconsaber.jpg"></img></a></div>
                             <div class="item"><a target="_blank" href="http://www.colombiaaprende.edu.co/html/micrositios/1752/w3-propertyname-3203.html"><img class="img-responsive" alt="Responsive image" src="img/jornadaunica.jpg"></img></a></div>
