@@ -130,8 +130,8 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .slide-actividades{ padding: 15px}
 .slide-actividades> h2{ color:#ffffff; line-height: 25px; padding: 15px}
 .slide-actividades> h2 > span{ color:rgba(255,255,255,0.0);background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-actividades.png") no-repeat; padding: 8px;}
-.slide-actividades> .pane-content{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
-
+.slide-actividades> .pane-content > .ui-tabs{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
+.slide-actividades> .pane-content > .ui-tabs > ul { border: none; background: transparent}
 
 /*slider*/
 .slide>h2{
