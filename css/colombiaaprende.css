@@ -127,11 +127,23 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 
 .content-actividades{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-final.png")rgba(34,163,183,1.0) no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; border-bottom: solid 5px #de5a49; }
 
+
 .slide-actividades{ padding: 15px}
 .slide-actividades> h2{ color:#ffffff; line-height: 25px; padding: 15px}
 .slide-actividades> h2 > span{ color:rgba(255,255,255,0.0);background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-actividades.png") no-repeat; padding: 8px;}
 .slide-actividades> .pane-content > .ui-tabs{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
-.slide-actividades> .pane-content > .ui-tabs > ul { border: none; background: transparent}
+.slide-actividades> .pane-content > .ui-tabs > ul { border: none; background: transparent;border-bottom: 1px solid #ddd;}
+.slide-actividades> .pane-content > .ui-tabs > ul > li:focus{
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.slide-actividades> .pane-content > .ui-tabs > ul > li > a{ font-size: small;}
+.slide-actividades> .pane-content > .ui-tabs > ul > li > a:visited{
+    color: #ffffff;
+    background-color: rgba(0,81,95,1.0);
+}
 
 /*slider*/
 .slide>h2{
@@ -142,6 +154,44 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     font-size: 18px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.slide img{
+    width: 148px;
+    height: 148px;
+}
+
+.slide .jcarousel-skin-default .jcarousel-container-horizontal{
+    width:600px !important;
+}
+
+.slide .jcarousel-skin-default .jcarousel-clip-horizontal{
+    width:800px !important;
+}
+
+.slide .jcarousel-skin-default .jcarousel-item-horizontal{
+    float: left;
+    list-style: none;
+    width: 148px;
+    height: 148px;
+}
+
+.slide .views-field-title{
+    float: left;
+    background: rgba(0, 0, 0, 0.22) none repeat scroll 0% 0%;
+    position: absolute;
+    bottom: 0px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.slide .views-field-title a{
+  color:#fff;
+  font-size:20px;
 }
 
 /********/
