@@ -51,19 +51,19 @@ border-radius: 10px;}
 /*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
 .link-menu{ height: 70px;padding:0px;}
 .link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
-.campus{background:url("../img/btn-cursos-online-gratis.png") no-repeat;}
-.agenda{background:url("../img/btn-agenda.png") no-repeat;}
-.comunidades{background:url("../img/btn-comunidades.png") no-repeat;}
-.edusitios{background:url("../img/btn-programas-especiales.png") no-repeat;}
-.catalogo{background:url("../img/btn-catalogo.png") no-repeat;}
-.experiencias{background:url("../img/btn-experiencias.png") no-repeat;}
+.campus{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis.png") no-repeat;}
+.agenda{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda.png") no-repeat;}
+.comunidades{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades.png") no-repeat;}
+.edusitios{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales.png") no-repeat;}
+.catalogo{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo.png") no-repeat;}
+.experiencias{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias.png") no-repeat;}
 
-.campus:hover{background:url("../img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
-.agenda:hover{background:url("../img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
-.comunidades:hover{background:url("../img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
-.edusitios:hover{background:url("../img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
-.catalogo:hover{background:url("../img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
-.experiencias:hover{background:url("../img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
+.campus:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
+.agenda:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
+.comunidades:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
+.edusitios:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
+.catalogo:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
+.experiencias:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
 
 .slide > h4{ color:#808080; line-height: 25px;}
 .slide > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-cont-dest.png") no-repeat; padding: 8px;}
