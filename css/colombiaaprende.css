@@ -49,21 +49,6 @@ border-radius: 10px;}
 /*inicio estilos menus*/
 .menu-important-cont{background-color:#ededed;}
 /*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
-.link-menu{ height: 70px;padding:0px;}
-.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
-.cursos-online{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis.png") no-repeat;}
-.agenda{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda.png") no-repeat;}
-.comunidades{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades.png") no-repeat;}
-.programas-especiales{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales.png") no-repeat;}
-.catalogo{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo.png") no-repeat;}
-.experiencias{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias.png") no-repeat;}
-
-.cursos-online:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
-.agenda:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
-.comunidades:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
-.programas-especiales:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
-.catalogo:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
-.experiencias:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
 
 .slide > h4{ color:#808080; line-height: 25px;}
 .slide > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-cont-dest.png") no-repeat; padding: 8px;}
@@ -81,8 +66,6 @@ border-radius: 10px;}
 .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{color: rgba(0,81,95,1.0);}
 
 .content-actividades{background:url("../img/bg-final.png")rgba(34,163,183,1.0) no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; border-bottom: solid 5px #de5a49; }
-.slide-actividades> h4{ color:#ffffff; line-height: 25px;}
-.slide-actividades> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-actividades.png") no-repeat; padding: 8px;}
 
 .slide-twiter > h4{ color:#ffffff; line-height: 25px;}
 .slide-twiter > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-twitter.png") no-repeat; padding: 8px;}
@@ -96,31 +79,20 @@ border-radius: 10px;}
 input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size: 14px;line-height: 1.42857143;color: #555;background-color: #fff;background-image: none;border: 1px solid #ccc;border-radius: 4px;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;}
 #edit-submit--3{border:0px;margin-left: -6px;display: inline-block;line-height: 22px;padding: 5px 15px;color: rgba(255,255,255,0.0);background: url("../img/ico-search.png") no-repeat #de5a49;-webkit-transition: all 500ms ease-in;-o-transition: all 500ms ease;transition: all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;width: 40px;}
 
+.banner-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
 
-.main-menu>div{
-  background-color:rgba(28,61,78,1.0);
-
-}
-
-.main-menu>div>ul{
-  width: 100%;
-  margin: auto;
-  height: auto;
-  display: inline-block;
-}
-
-.main-menu>div>ul>li{
-    width: 16%;
-    float: right;
-    display: block;
-    text-decoration: none;
-}
-
+.main-menu>div{  background-color:rgba(28,61,78,1.0);}
+.main-menu>div>ul{  width: 100%;  margin: auto;  height: auto; display: inline-block;}
+.main-menu>div>ul>li{  width: 16%; float: right; display: block; text-decoration: none;}
 .main-menu>div>ul>li>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
-
 .main-menu>div>ul>li>a{ height: 70px;padding:0px}
 
-/*menu edusitios*/
+.second-menu>div{ background-color:#ededed;}
+.second-menu>div>ul{ width: 100%;  margin: auto;  height: auto;  display: inline-block;}
+.second-menu>div>ul>li{ width: 16%; float: right; display: block; text-decoration: none;}
+.second-menu>div>ul>li>a{ color: rgba(255,255,255,0.0); text-decoration: none; display: block; padding: 25px; overflow: hidden; -webkit-transition: all 500ms ease-in; -o-transition: all 500ms ease; transition: all 500ms ease;}
+.second-menu>div>ul>li>a{ height: 70px;padding:0px}
+
 .student{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-b.png") no-repeat;}
 .univ_student{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-s.png") no-repeat;}
 .univ_professor{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-docencia-b.png") no-repeat;}
@@ -135,47 +107,26 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .researcher:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-investigadores-h.png") no-repeat;}
 .family:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-familia-h.png") no-repeat;}
 
-.banner-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.link-menu{ height: 70px;padding:0px;}
+.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
+.cursos-online{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis.png") no-repeat;}
+.agenda{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda.png") no-repeat;}
+.comunidades{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades.png") no-repeat;}
+.programas-especiales{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales.png") no-repeat;}
+.catalogo{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo.png") no-repeat;}
+.experiencias{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias.png") no-repeat;}
 
-/*second-menu*/
-.second-menu>div{
-  background-color:#ededed;
+.cursos-online:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
+.agenda:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
+.comunidades:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
+.programas-especiales:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
+.catalogo:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
+.experiencias:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
 
-}
-
-.second-menu>div>ul{
-  width: 100%;
-  margin: auto;
-  height: auto;
-  display: inline-block;
-}
-
-.second-menu>div>ul>li{
-    width: 16%;
-    float: right;
-    display: block;
-    text-decoration: none;
-}
-
-.second-menu>div>ul>li>a{
-    color: rgba(255,255,255,0.0);
-    text-decoration: none;
-    display: block;
-    padding: 25px;
-    overflow: hidden;
-    -webkit-transition: all 500ms ease-in;
-    -o-transition: all 500ms ease;
-    transition: all 500ms ease;
-}
-
-.second-menu>div>ul>li>a{ height: 70px;padding:0px}
-/******/
+.slide-actividades> h4{ color:#ffffff; line-height: 25px;}
+.slide-actividades> h4 > span{ color:rgba(255,255,255,0.0);background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-actividades.png") no-repeat; padding: 8px;}
 
 @media (max-width: 992px) {
-  .main-menu>div>ul>li {
-      width: 100%;
-  }
-  .second-menu>div>ul>li {
-      width: 100%;
-  }
+  .main-menu>div>ul>li { width: 100%;}
+  .second-menu>div>ul>li { width: 100%; }
 }
