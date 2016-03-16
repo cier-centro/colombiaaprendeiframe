@@ -97,12 +97,12 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 #edit-submit--3{border:0px;margin-left: -6px;display: inline-block;line-height: 22px;padding: 5px 15px;color: rgba(255,255,255,0.0);background: url("../img/ico-search.png") no-repeat #de5a49;-webkit-transition: all 500ms ease-in;-o-transition: all 500ms ease;transition: all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;width: 40px;}
 
 
-.main-menu{
+.main-menu>div{
   background-color:rgba(28,61,78,1.0);
 
 }
 
-.main-menu>ul{
+.main-menu>div>ul{
   width: 100%;
   margin: auto;
   height: auto;
