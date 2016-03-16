@@ -135,3 +135,6 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   .main-menu>div>ul>li { width: 100%;}
   .second-menu>div>ul>li { width: 100%; }
 }
+.panel-flexible .panel-separator {
+	margin:0px;
+}
