@@ -141,8 +141,4 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   }
 }
 
-.banner-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
-
-body{
-  background-color: red !important;
-}
+.banner-header{background:url("../img/img-headersdasdsdf.jpg") no-repeat center center !important;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
