@@ -144,6 +144,43 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     margin-bottom: 10px;
 }
 
+.vista-contenidos{
+   
+}
+.vista-contenidos img{
+    width: 148px;
+    height: 148px;
+}
+.vista-contenidos .jcarousel-skin-default .jcarousel-container-horizontal{
+    width:600px !important;
+}
+
+.vista-contenidos .jcarousel-skin-default .jcarousel-clip-horizontal{
+    width:800px !important;
+}
+.vista-contenidos .jcarousel-skin-default .jcarousel-item-horizontal{
+    float: left;
+    list-style: none;
+    width: 148px;
+    height: 148px;
+}
+.vista-contenidos .views-field-title{
+    float: left;
+    background: rgba(0, 0, 0, 0.22) none repeat scroll 0% 0%;
+    position: absolute;
+    bottom: 0px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.vista-contenidos .views-field-title a{
+  color:#fff;
+  font-size:20px;
+}
+
 /********/
 
 @media (max-width: 992px) {
