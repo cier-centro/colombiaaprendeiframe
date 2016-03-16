@@ -1,0 +1,142 @@
+@charset "UTF-8";
+body {margin: 0px; padding: 0px; /*font-family: 'Lato','Merriweather', serif;*/ font-family:arial, Helvetica, sans-serif; background-color:#ffffff; /*background:url("../img/bg-general.gif") repeat*/}
+h1{margin:0px;}
+h2{margin:0px;}
+h3{margin:0px;}
+.icon, .icon:hover{color:rgba(255,255,255,0.0); display:inline-block;}
+.navbar{margin-bottom: 0px; }
+.navbar-collapse{background: rgba(255,255,255,0);
+background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(246,246,246,0.47) 47%, rgba(245,245,245,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(47%, rgba(246,246,246,0.47)), color-stop(100%, rgba(245,245,245,1)));
+background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(246,246,246,0.47) 47%, rgba(245,245,245,1) 100%);
+background: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(246,246,246,0.47) 47%, rgba(245,245,245,1) 100%);
+background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(246,246,246,0.47) 47%, rgba(245,245,245,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(246,246,246,0.47) 47%, rgba(245,245,245,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5', GradientType=0 );
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;}
+/*.collapse{ border: 1px solid #B1B1B1;}*/
+.navbar-nav > li > a{ width: 40px;height: 40px;}
+.social > li > a{background:url("../img/social-icons.png") no-repeat;}
+.navbar-nav .fa-facebook{background-position: 0px 0px;}
+.navbar-nav .fa-twitter{background-position: -40px 0px;}
+.navbar-nav .fa-youtube{background-position: -80px 0px;}
+.navbar-nav .fa-rss{background-position: -120px 0px;}
+.navbar-nav .fa-flicker{background-position: -160px 0px;}
+.navbar-nav .fa-instagram{background-position: -200px 0px;}
+.navbar-nav, .social > li > a{overflow:hidden;-webkit-transition:all 200ms ease-in;-o-transition:all 200ms ease;transition:all 200ms ease; /* Establecemos una transición a todas las propiedades */}
+.fa-facebook:hover{ background-position: 0px -40px;}
+.fa-twitter:hover{background-position: -40px -40px;}
+.fa-youtube:hover{background-position: -80px -40px;}
+.fa-rss:hover{background-position: -120px -40px;}
+.fa-flicker:hover{background-position: -160px -40px;}
+.fa-instagram:hover{background-position: -200px -40px;}
+.ico-register{background:url("../img/ico-register.png") no-repeat;width: 25px;height: 25px;}
+.navbar-collapse >.btn,.btn-register{color: #fff;background-color: #de5a49;border-color: #de5a49; text-align: right;padding: 0px 12px;}
+.navbar-collapse >.btn{margin-top:5px;-webkit-border-radius: 17px;-moz-border-radius: 17px;border-radius: 17px; float: right;line-height: 25px;}
+.navbar{border:0px; min-height:40px;border-bottom:5px solid; color:#de5a49;}
+.navbar-icons{display: block;width: 100%;height: 100px;}
+.logo{margin: 5px 0 5px 0;}
+.btn-search{line-height: 22px;padding: 5px 15px;color:rgba(255,255,255,0.0);background:url("../img/ico-search.png") no-repeat  #de5a49;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;}
+.btn-search:hover{color:rgba(255,255,255,0.0); background-color: #cc463b}
+.menu-header{background:url("../img/img-header.jpg") no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.search-conteiner{ padding: 15px; margin: auto; width: 500px;}
+.search-conteiner>.form-group{margin:auto;min-width:450px;}
+.search-conteiner>input{}
+.search-conteiner>.button{float: right;}
+.input-search{min-width:80%;margin-right: -4px; margin-left: 7%;}
+/*inicio estilos menus*/
+.menu-important-cont{background-color:#ededed;}
+/*.menu-important-cont> a{ display: inline-block; height: 80px;}*/
+.link-menu{ height: 70px;padding:0px;}
+.link-menu>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
+.campus{background:url("../img/btn-cursos-online-gratis.png") no-repeat;}
+.agenda{background:url("../img/btn-agenda.png") no-repeat;}
+.comunidades{background:url("../img/btn-comunidades.png") no-repeat;}
+.edusitios{background:url("../img/btn-programas-especiales.png") no-repeat;}
+.catalogo{background:url("../img/btn-catalogo.png") no-repeat;}
+.experiencias{background:url("../img/btn-experiencias.png") no-repeat;}
+
+.campus:hover{background:url("../img/btn-cursos-online-gratis-h.png") no-repeat;background-color:#ea564b;}
+.agenda:hover{background:url("../img/btn-agenda-h.png") no-repeat;background-color:#ea564b;}
+.comunidades:hover{background:url("../img/btn-comunidades-h.png") no-repeat;background-color:#ea564b;}
+.edusitios:hover{background:url("../img/btn-programas-especiales-h.png") no-repeat;background-color:#ea564b;}
+.catalogo:hover{background:url("../img/btn-catalogo-h.png") no-repeat;background-color:#ea564b;}
+.experiencias:hover{background:url("../img/btn-experiencias-h.png") no-repeat;background-color:#ea564b;}
+
+.slide > h4{ color:#808080; line-height: 25px;}
+.slide > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-cont-dest.png") no-repeat; padding: 8px;}
+
+.caruosel-edusitios{background:url("../img/bg-menu.png") repeat rgba(0,37,48,1.0);}
+.slide-l> h4{ color:#ffffff; line-height: 25px;}
+.slide-l > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-edus-dest.png") no-repeat; padding: 8px;}
+
+.content-agenda{background:url("../img/bg-menu.png") repeat rgba(0,81,95,1.0);}
+.slide-tabs> h4{ color:#ffffff; line-height: 25px;}
+.slide-tabs> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-comunidades.png") no-repeat; padding: 8px;}
+.tabs-container{background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
+.carousel-container{background-color: rgba(0,0,0,0.50); border: solid 1px ;padding: 15px;margin-bottom: 50px;}
+.nav-tabs > li > a {line-height: 5px; color: #ffffff;background-color: rgba(0,81,95,1.0);}
+.nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{color: rgba(0,81,95,1.0);}
+
+.content-actividades{background:url("../img/bg-final.png")rgba(34,163,183,1.0) no-repeat center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; border-bottom: solid 5px #de5a49; }
+.slide-actividades> h4{ color:#ffffff; line-height: 25px;}
+.slide-actividades> h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-actividades.png") no-repeat; padding: 8px;}
+
+.slide-twiter > h4{ color:#ffffff; line-height: 25px;}
+.slide-twiter > h4 > span{ color:rgba(255,255,255,0.0);background:url("../img/ico-twitter.png") no-repeat; padding: 8px;}
+.label-search{text-align: center;color:#ffffff; margin-bottom: 100px;}
+.label-search>label{font-size: 20px;font-variant: small-caps;}
+.modal-dialog {margin: 140px auto;}
+
+.panels-flexible-region-20-center{width:100%;}
+.container-inline{margin:auto;width:40%;}
+.container-inline:after{content:"Más de 100.000 contenidos educativos virtuales para aprender y enseñar.";width:100%;margin-top:100px;}
+input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size: 14px;line-height: 1.42857143;color: #555;background-color: #fff;background-image: none;border: 1px solid #ccc;border-radius: 4px;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;}
+#edit-submit--3{border:0px;margin-left: -6px;display: inline-block;line-height: 22px;padding: 5px 15px;color: rgba(255,255,255,0.0);background: url("../img/ico-search.png") no-repeat #de5a49;-webkit-transition: all 500ms ease-in;-o-transition: all 500ms ease;transition: all 500ms ease;-webkit-border-radius: 15px;-webkit-border-top-left-radius: 0px;-webkit-border-bottom-left-radius: 0px;-moz-border-radius: 15px;-moz-border-radius-topleft: 0px;-moz-border-radius-bottomleft: 0px;border-radius: 15px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;width: 40px;}
+
+
+.main-menu{
+  background-color:rgba(28,61,78,1.0);
+
+}
+
+.main-menu>ul{
+  width: 100%;
+  margin: auto;
+  height: auto;
+  display: inline-block;
+}
+
+.main-menu>ul>li{
+    width: 16%;
+    float: right;
+    display: block;
+    text-decoration: none;
+}
+
+.main-menu>ul>li>a{color:rgba(255,255,255,0.0);text-decoration: none;display: block;padding: 25px; overflow:hidden;-webkit-transition:all 500ms ease-in;-o-transition:all 500ms ease;transition:all 500ms ease;}
+
+.main-menu>ul>li>a{ height: 70px;padding:0px}
+
+/*menu edusitios*/
+.student{background:url("../img/btn-estudiantes-b.png") no-repeat;}
+.univ_student{background:url("../img/btn-estudiantes-s.png") no-repeat;}
+.univ_professor{background:url("../img/btn-docencia-b.png") no-repeat;}
+.teacher{background:url("../img/btn-docencia-s.png") no-repeat;}
+.researcher{background:url("../img/btn-investigadores.png") no-repeat;}
+.family{background:url("../img/btn-familia.png") no-repeat;}
+
+.student:hover{background:url("../img/btn-estudiantes-b-h.png") no-repeat;}
+.univ_student:hover{background:url("../img/btn-estudiantes-s-h.png") no-repeat;}
+.univ_professor:hover{background:url("../img/btn-docencia-b-h.png") no-repeat;}
+.teacher:hover{background:url("../img/btn-docencia-s-h.png") no-repeat;}
+.researcher:hover{background:url("../img/btn-investigadores-h.png") no-repeat;}
+.family:hover{background:url("../img/btn-familia-h.png") no-repeat;}
+
+@media (max-width: 992px) {
+  .main-menu>ul>li {
+      width: 100%;
+  }
+}
