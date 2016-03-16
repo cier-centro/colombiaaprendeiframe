@@ -133,10 +133,14 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 
 
 /*slider*/
-.slide > h1 > span {
-    color: rgba(255,255,255,0.0);
+.slide>h1{
     background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-cont-dest.png") no-repeat;
-    padding: 8px;
+    padding: 8px 50px;
+    color: #808080;
+    line-height: 25px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /********/
