@@ -156,27 +156,27 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     margin-bottom: 10px;
 }
 
-.vista-contenidos{
-   
-}
-.vista-contenidos img{
+.slide img{
     width: 148px;
     height: 148px;
 }
-.vista-contenidos .jcarousel-skin-default .jcarousel-container-horizontal{
+
+.slide .jcarousel-skin-default .jcarousel-container-horizontal{
     width:600px !important;
 }
 
-.vista-contenidos .jcarousel-skin-default .jcarousel-clip-horizontal{
+.slide .jcarousel-skin-default .jcarousel-clip-horizontal{
     width:800px !important;
 }
-.vista-contenidos .jcarousel-skin-default .jcarousel-item-horizontal{
+
+.slide .jcarousel-skin-default .jcarousel-item-horizontal{
     float: left;
     list-style: none;
     width: 148px;
     height: 148px;
 }
-.vista-contenidos .views-field-title{
+
+.slide .views-field-title{
     float: left;
     background: rgba(0, 0, 0, 0.22) none repeat scroll 0% 0%;
     position: absolute;
@@ -188,7 +188,8 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     box-sizing: border-box;
     text-align: left;
 }
-.vista-contenidos .views-field-title a{
+
+.slide .views-field-title a{
   color:#fff;
   font-size:20px;
 }
