@@ -121,19 +121,19 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .main-menu>ul>li>a{ height: 70px;padding:0px}
 
 /*menu edusitios*/
-.student{background:url("../img/btn-estudiantes-b.png") no-repeat;}
-.univ_student{background:url("../img/btn-estudiantes-s.png") no-repeat;}
-.univ_professor{background:url("../img/btn-docencia-b.png") no-repeat;}
-.teacher{background:url("../img/btn-docencia-s.png") no-repeat;}
-.researcher{background:url("../img/btn-investigadores.png") no-repeat;}
-.family{background:url("../img/btn-familia.png") no-repeat;}
+.student{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-b.png") no-repeat;}
+.univ_student{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-s.png") no-repeat;}
+.univ_professor{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-docencia-b.png") no-repeat;}
+.teacher{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-docencia-s.png") no-repeat;}
+.researcher{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-investigadores.png") no-repeat;}
+.family{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-familia.png") no-repeat;}
 
-.student:hover{background:url("../img/btn-estudiantes-b-h.png") no-repeat;}
-.univ_student:hover{background:url("../img/btn-estudiantes-s-h.png") no-repeat;}
-.univ_professor:hover{background:url("../img/btn-docencia-b-h.png") no-repeat;}
-.teacher:hover{background:url("../img/btn-docencia-s-h.png") no-repeat;}
-.researcher:hover{background:url("../img/btn-investigadores-h.png") no-repeat;}
-.family:hover{background:url("../img/btn-familia-h.png") no-repeat;}
+.student:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-b-h.png") no-repeat;}
+.univ_student:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-estudiantes-s-h.png") no-repeat;}
+.univ_professor:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-docencia-b-h.png") no-repeat;}
+.teacher:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-docencia-s-h.png") no-repeat;}
+.researcher:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-investigadores-h.png") no-repeat;}
+.family:hover{background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/btn-familia-h.png") no-repeat;}
 
 @media (max-width: 992px) {
   .main-menu>ul>li {
