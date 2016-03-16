@@ -152,4 +152,4 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .panel-flexible .panel-separator {
 	margin:0px;
 }
-.menu-header>h2{width:80%; margin:auto; text-align: center; display:block;color:#ffffff;}
+.menu-header>h2{width:80%; margin:auto; text-align: center; display:block;color:#ffffff; padding: 70px 0px 20px 0px;}
