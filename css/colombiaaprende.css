@@ -154,4 +154,5 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 	margin:0px;
 }
 .menu-header>h2{width:80%; margin:auto; text-align: center; display:block;color:#ffffff; padding: 70px 0px 20px 0px;}
+.menu-header>p{font-size: 20px;font-variant: small-caps;}
 .panels-flexible-region-34-centerñ{width:100%;}
