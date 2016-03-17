@@ -388,10 +388,10 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   }
 
   .twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .container {
-    overflow: hidden;
+    /*overflow: hidden;*/
     width: auto;
     background-color: #fff;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
 }
 
 .twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .views-field-link a {
