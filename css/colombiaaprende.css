@@ -275,3 +275,23 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-edus-dest") no-repeat;
   font-size: 30px;
 }
+
+.panel-comunidades{
+  background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,37,48,1.0) !important;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-top: 20px;
+}
+
+.panel-comunidades h2{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: initial;
+}
+
+.panel-comunidades h2 > span{
+  color:rgba(255,255,255,0.0);
+  background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-comunidades.png") no-repeat;
+  font-size: 30px;
+}
