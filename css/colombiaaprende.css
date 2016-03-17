@@ -387,7 +387,6 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 }
 
 .twitter-minipanel>h2{
-    color: rgba(255,255,255,0.0);
     background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-twitter.png") no-repeat;
     padding: 8px;
 }
