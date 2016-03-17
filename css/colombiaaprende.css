@@ -162,9 +162,16 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     border: 1px solid #ddd;
     border-bottom-color: transparent;
 }
+
 .slide-actividades .ui-tabs .ui-state-default > a {
     color: #ffffff;
     background-color: rgba(0,81,95,1.0);
+}
+
+.slide-actividades .views-row{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;;
 }
 
 /*slider*/
