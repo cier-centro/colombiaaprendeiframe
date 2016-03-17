@@ -1,6 +1,10 @@
 @charset "UTF-8";
 body {margin: 0px; padding: 0px; /*font-family: 'Lato','Merriweather', serif;*/ font-family:arial, Helvetica, sans-serif; background-color:#ffffff; /*background:url("../img/bg-general.gif") repeat*/}
-@font-face { font-family: Small_Town_Skyline; src: local(“http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/fonts/Small_Town_Skyline.eot”), src: local(“http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/fonts/Small_Town_Skyline.woff”),url('Sansation_Light.ttf')}
+/*@font-face { font-family: Small_Town_Skyline; src: local(“http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/fonts/Small_Town_Skyline.eot”), src: local(“http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/fonts/Small_Town_Skyline.woff”),url('Sansation_Light.ttf')}*/
+@font-face {
+    font-family: Small_Town_Skyline;
+    src: url('http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/fonts/Small_Town_Skyline.woff');
+}
 h1{margin:0px;}
 h2{margin:0px;}
 h3{margin:0px;}
@@ -232,6 +236,13 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .panel-flexible .panel-separator {
 	margin:0px;
 }
-.menu-header>h2{width:80%; margin:auto; text-align: center; display:block;color:#ffffff; padding: 70px 0px 20px 0px;}
+.menu-header>h2{
+    width:80%; 
+    margin:auto; 
+    text-align: center; 
+    display:block;color:#ffffff; padding: 70px 0px 0px 0px;
+    font-family: Small_Town_Skyline;
+    font-size: 90px;
+}
 .menu-header p{color:#ffffff;font-size: 20px;font-variant: small-caps; display:block;width:80%;margin:auto;padding:10px 0px 70px 0px; text-align: center;}
 .panels-flexible-region-34-centerñ{width:100%;}
