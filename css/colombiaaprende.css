@@ -237,12 +237,36 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 	margin:0px;
 }
 .menu-header>h2{
-    width:80%; 
-    margin:auto; 
-    text-align: center; 
+    width:80%;
+    margin:auto;
+    text-align: center;
     display:block;color:#ffffff; padding: 70px 0px 0px 0px;
     font-family: Small_Town_Skyline;
     font-size: 90px;
 }
 .menu-header p{color:#ffffff;font-size: 20px;font-variant: small-caps; display:block;width:80%;margin:auto;padding:10px 0px 70px 0px; text-align: center;}
 .panels-flexible-region-34-centerñ{width:100%;}
+
+.panel-especiales{
+  background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,37,48,1.0) !important;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 20px;
+}
+
+.panel-especiales h2{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: initial;
+}
+
+.panel-especiales h2 > span{
+  color:rgba(255,255,255,0.0);
+  background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-edus-dest") no-repeat;
+  font-size: 30px;
+}
+
+.panel-especiales .vista-especiales .jcarousel-skin-default .jcarousel-container-horizontal{
+
+}
