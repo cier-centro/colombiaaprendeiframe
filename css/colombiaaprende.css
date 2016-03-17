@@ -93,7 +93,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 
 .second-menu>div{ background-color:#ededed;}
 .second-menu>div>ul{ width: 100%;  margin: auto;  height: auto;  display: inline-block;}
-.second-menu>div>ul>li{ width: 16%; float: right; display: block; text-decoration: none;}
+.second-menu>div>ul>li{ width: 16.6%; float: right; display: block; text-decoration: none;box-sizing:border-box;margin:0;padding:0;}
 .second-menu>div>ul>li>a{ color: rgba(255,255,255,0.0); text-decoration: none; display: block; padding: 25px; overflow: hidden; -webkit-transition: all 500ms ease-in; -o-transition: all 500ms ease; transition: all 500ms ease;}
 .second-menu>div>ul>li>a{ height: 70px;padding:0px}
 
