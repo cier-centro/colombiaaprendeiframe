@@ -175,6 +175,9 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 
 .slide-actividades .views-field-title{
     font-size: medium;
+}
+
+.slide-actividades .views-field-title a{
     color: #00A5B9;
 }
 
@@ -450,5 +453,5 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
      }
 }
 @media (min-width: 1500px) {
-	
+
 }
