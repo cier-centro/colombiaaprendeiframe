@@ -92,7 +92,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .main-menu>div>ul>li>a{ height: 70px;padding:0px}
 
 .second-menu>div{ background-color:#ededed;}
-.second-menu>div>ul{ width: 90%; margin: 0 5%;  height: auto;  display: inline-block;padding: 0;}
+.second-menu>div>ul{ width: 90%; margin: 0 5%;  height: auto;  display: inline-block;padding: 0px!important;}
 .second-menu>div>ul>li{ width: 16.6%; float: right; display: block; text-decoration: none;box-sizing:border-box;margin:0;padding:0;}
 .second-menu>div>ul>li>a{ color: rgba(255,255,255,0.0); text-decoration: none; display: block; padding: 25px; overflow: hidden; -webkit-transition: all 500ms ease-in; -o-transition: all 500ms ease; transition: all 500ms ease;}
 .second-menu>div>ul>li>a{ height: 70px;padding:0px}
@@ -402,4 +402,11 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     font-size: 14px;
     color: #fff;
     text-align: center;
+}
+
+.twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter {
+    width: 204px;
+    padding-left: 22px;
+    background: transparent url(/sites/all/themes/aprende/images/header/lnb_sns_twitter_on.jpg) top left no-repeat;
+    background-size: 22px;
 }
