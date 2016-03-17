@@ -405,9 +405,9 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     .programas-especiales:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
     .catalogo:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
     .experiencias:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-	.second-menu>div>ul { width: 100%;}
+	.second-menu>div>ul { width: 100%;margin:0px;}
     .main-menu>div>ul>li { width: 100%;}
-    .second-menu>div>ul>li { width: 100%; margin:0;}
+    .second-menu>div>ul>li { width: 100%; }
     .slide{
         display: inline-block;
         box-sizing: border-box;
