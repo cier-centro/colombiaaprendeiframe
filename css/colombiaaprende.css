@@ -194,6 +194,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .slide-actividades .views-field-body{
     padding-top: 20px;
     font-size: small;
+    display: inline-block;
 }
 
 /*slider*/
