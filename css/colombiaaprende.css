@@ -288,7 +288,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   padding-top: 15px;
   padding-bottom: 15px;
   height: auto !important;
-  width: auto !important
+  width: 100% !important
 }
 
 .panel-comunidades h2{
@@ -310,6 +310,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   border: solid 1px;
   margin-top:15px;
   margin-bottom: 15px;
+  width: auto !important;
 }
 
 .panel-comunidades .vista-especiales .jcarousel-skin-default .jcarousel-clip-horizontal{
@@ -319,7 +320,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     display: inline-block;
     box-sizing: border-box;
     width: 60%;
-    float: left;    
+    float: left;
 }
 
 .twitter-minipanel{
