@@ -153,7 +153,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   font-size: 30px;
 }
 .slide-actividades .ui-tabs {background-color: #ffffff; border: solid 1px ;padding: 15px;margin-bottom: 50px;}
-.slide-actividades .ui-tabs ul { border: none; background: transparent;border-bottom: 1px solid #ddd; font-size: larger;}
+.slide-actividades .ui-tabs ul { border: none; background: transparent;border-bottom: 1px solid #ddd; font-size: medium;}
 .slide-actividades .ui-tabs .ui-tabs-nav li.ui-tabs-selected > a{
     color: #555;
     cursor: default;
@@ -172,9 +172,18 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     padding-bottom: 15px;
     border-bottom: 1px solid #ddd;;
 }
+
 .slide-actividades .views-field-title{
     font-size: medium;
 }
+
+.slide-actividades .views-field-nothing, .slide-actividades .views-field-created , .slide-actividades .views-field-totalcount{
+    display: block;
+    position: relative;
+    float: left;
+    width: auto;
+}
+
 /*slider*/
 .slide>h2{
     background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-cont-dest.png") no-repeat;
