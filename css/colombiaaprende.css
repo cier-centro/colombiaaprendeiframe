@@ -350,10 +350,10 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   }
 
   .twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .container {
-    overflow: hidden;
+    /*overflow: hidden;*/
     width: auto;
     background-color: #fff;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
 }
 
 .twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .views-field-link a {
@@ -409,7 +409,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     .programas-especiales:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
     .catalogo:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
     .experiencias:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-
+	.second-menu>div>ul { width: 100%;}
     .main-menu>div>ul>li { width: 100%;}
     .second-menu>div>ul>li { width: 100%; }
     .slide{
