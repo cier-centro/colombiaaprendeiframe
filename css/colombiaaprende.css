@@ -259,7 +259,9 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,37,48,1.0) !important;
   padding-left: 7%;
   padding-right: 7%;
-  padding-top: 20px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  height: auto !important;
 }
 
 .panel-especiales h2{
@@ -275,11 +277,17 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   font-size: 30px;
 }
 
+.panel-especiales .jcarousel-container{
+  height: auto;
+}
+
 .panel-comunidades{
   background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,81,95,1.0) !important;
   padding-left: 7%;
   padding-right: 7%;
-  padding-top: 20px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  height: auto !important;
 }
 
 .panel-comunidades h2{
@@ -293,4 +301,11 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   color:rgba(255,255,255,0.0);
   background:url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/ico-comunidades.png") no-repeat;
   font-size: 30px;
+}
+
+.panel-comunidades .jcarousel-container{
+  height: auto;
+  background-color: rgba(0,0,0,0.50);
+  border: solid 1px;
+  margin-bottom: 5%;
 }
