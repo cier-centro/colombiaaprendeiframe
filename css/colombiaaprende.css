@@ -410,3 +410,9 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     background: transparent url(/sites/all/themes/aprende/images/header/lnb_sns_twitter_on.jpg) top left no-repeat;
     background-size: 22px;
 }
+
+.twitter-minipanel .pane-content{
+    background-color: #ffffff;
+    padding: 5px;
+    box-sizing: border-box;
+}
