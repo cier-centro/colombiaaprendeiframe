@@ -391,7 +391,9 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     background-color: #ffffff;
     padding: 5px;
     box-sizing: border-box;
-    width: 250px;
+    width: 280px;
+    height: 390px;
+    overflow: auto;
 }
 
 .twitter-minipanel>h2{
