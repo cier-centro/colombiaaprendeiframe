@@ -376,3 +376,10 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     margin-left: auto;
     font-size: 14px;
   }
+
+  .twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .container {
+    overflow: hidden;
+    width: 182px;
+    padding: 10px;
+    background-color: #fff;
+}
