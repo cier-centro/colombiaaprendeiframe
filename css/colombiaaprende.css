@@ -393,3 +393,10 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     color: #fff;
     text-align: center;
 }
+
+.twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter {
+    width: 204px;
+    padding-left: 22px;
+    background: transparent url(/sites/all/themes/aprende/images/header/lnb_sns_twitter_on.jpg) top left no-repeat;
+    background-size: 22px;
+}
