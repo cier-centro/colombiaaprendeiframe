@@ -332,6 +332,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   display: inline-block;
   box-sizing: border-box;
   width: 20%;
+  margin-left: 80px;
 }
 
 .twitter-minipanel .view-social-stream-feeds .views-row {
