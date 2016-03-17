@@ -383,3 +383,13 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     background-color: #fff;
     padding: 10px 10px 10px 10px;
 }
+
+.twitter-minipanel .view-social-stream-feeds .views-row .sns_twitter .views-field-link a {
+    display: block;
+    float: right;
+    padding: 2px 8px;
+    background-color: #02ccfe;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
