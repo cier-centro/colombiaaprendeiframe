@@ -259,8 +259,8 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,37,48,1.0) !important;
   padding-left: 7%;
   padding-right: 7%;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 15px;
+  padding-bottom: 15px;
   height: auto !important;
 }
 
@@ -288,6 +288,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   padding-top: 15px;
   padding-bottom: 15px;
   height: auto !important;
+  width: auto !important
 }
 
 .panel-comunidades h2{
@@ -309,4 +310,8 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   border: solid 1px;
   margin-top:15px;
   margin-bottom: 15px;
+}
+
+.panel-comunidades .vista-especiales .jcarousel-skin-default .jcarousel-clip-horizontal{
+  width: auto !important;  
 }
