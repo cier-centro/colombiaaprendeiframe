@@ -177,6 +177,10 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     font-size: medium;
 }
 
+.slide-actividades .views-field-title a{
+    color: #00A5B9;
+}
+
 .slide-actividades .views-field-nothing, .slide-actividades .views-field-created , .slide-actividades .views-field-totalcount{
     display: block;
     position: relative;
@@ -184,12 +188,13 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     width: auto;
     padding-right: 10px;
     padding-top: 10px;
-    font-size: small;
+    font-size: x-small;
 }
 
 .slide-actividades .views-field-body{
     padding-top: 20px;
     font-size: small;
+    display: inline-block;
 }
 
 /*slider*/
@@ -449,4 +454,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
      .agenda-minipanel{
         width: 100%;
      }
+}
+@media (min-width: 1500px) {
+
 }
