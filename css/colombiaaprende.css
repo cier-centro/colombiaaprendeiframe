@@ -361,3 +361,13 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   box-sizing: border-box;
   width: 20%;
 }
+
+.twitter-minipanel .view-social-stream-feeds .views-row {
+    overflow: hidden;
+    position: relative;
+    width: 226px;
+    margin-top: -10px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+  }
