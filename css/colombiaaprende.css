@@ -233,53 +233,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 .slide .jcarousel-skin-default .jcarousel-container-horizontal {
     padding: 0px 0px 0px 0px;
 }
-/********/
 
-@media (max-width: 992px) {
-
-.student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.univ_student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.univ_professor{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.teacher{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.researcher{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.family{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-
-.student:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.univ_student:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.univ_professor:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.teacher:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.researcher:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.family:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-
-.cursos-online{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.agenda{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.comunidades{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.programas-especiales{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.catalogo{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.experiencias{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-
-.cursos-online:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.agenda:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.comunidades:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.programas-especiales:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.catalogo:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-.experiencias:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
-
-  .main-menu>div>ul>li { width: 100%;}
-  .second-menu>div>ul>li { width: 100%; }
-  .slide{
-      display: inline-block;
-      box-sizing: border-box;
-      width: 100%;
-      float: left;
-      margin-left: 10%;
-  }
-  .slide-actividades{ padding: 0px}
-  .panel-bancotareas{
-      padding-top: 60px;
-      padding-left: 62px;
-   }
-}
 .panel-flexible .panel-separator {
 	margin:0px;
 }
@@ -415,4 +369,54 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
     background-color: #ffffff;
     padding: 5px;
     box-sizing: border-box;
+}
+
+
+@media (max-width: 992px) {
+
+    .student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .univ_student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .univ_professor{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .teacher{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .researcher{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .family{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+
+    .student:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .univ_student:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .univ_professor:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .teacher:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .researcher:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .family:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+
+    .cursos-online{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .agenda{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .comunidades{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .programas-especiales{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .catalogo{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .experiencias{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+
+    .cursos-online:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .agenda:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .comunidades:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .programas-especiales:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .catalogo:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+    .experiencias:hover{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+
+    .main-menu>div>ul>li { width: 100%;}
+    .second-menu>div>ul>li { width: 100%; }
+    .slide{
+        display: inline-block;
+        box-sizing: border-box;
+        width: 100%;
+        float: left;
+        margin-left: 10%;
+    }
+    .slide-actividades{ padding: 0px}
+    .panel-bancotareas{
+        padding-top: 60px;
+        padding-left: 62px;
+     }
+     .agenda-minipanel{
+        width: 100%;
+     }
 }
