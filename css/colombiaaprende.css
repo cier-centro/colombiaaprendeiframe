@@ -226,7 +226,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 /********/
 
 @media (max-width: 992px) {
-	
+
 .student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
 .univ_student{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
 .univ_professor{-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
@@ -308,7 +308,11 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
 
 .panel-especiales .jcarousel-container{
   height: auto;
+  margin-top:15px;
+  margin-bottom: 15px;
+  width: auto !important;
 }
+
 
 .panel-comunidades{
   background: url("http://aprende.colombiaaprende.edu.co/sites/all/themes/escuelas/img/bg-menu.png") repeat rgba(0,81,95,1.0) !important;
@@ -342,7 +346,7 @@ input{display: inline-block;width: 80%;height: 34px;padding: 6px 12px;font-size:
   width: auto !important;
 }
 
-.panel-comunidades .vista-especiales .jcarousel-skin-default .jcarousel-clip-horizontal{
+.panel-especiales .vista-especiales .jcarousel-skin-default .jcarousel-clip-horizontal, .panel-comunidades .vista-especiales .jcarousel-skin-default .jcarousel-clip-horizontal{
   width: auto !important;
 }
 .agenda-minipanel{
